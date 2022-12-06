@@ -1,3 +1,5 @@
+Note: this page is really bad. For nostalgic purposes, I won't change it yet, but know I made this when I was VERY knew to Github.
+
 - 👋 Hi, I’m @Pooch63
 - 👀 I’m interested in JavaScript, both frontend and backend - essentially, web design.
 - 🌱 I’m currently learning Svelte.
